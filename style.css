@@ -1,6 +1,12 @@
  html{
   scroll-behavior: smooth;
+  overflow-x: hidden;
  }
+
+ body{
+  overflow-x: hidden;
+}
+
  
  p{
   margin: auto;
@@ -57,6 +63,7 @@
     color: white;
     background-color: #383c44;
     padding: 7% 0 7% 0;
+    
   }
 
   .homeTextContainer {
